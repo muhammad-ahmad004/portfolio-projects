@@ -54,22 +54,6 @@ The design approach was kept simple, responsive, and product-focused so that the
 - Cart / Shopping Flow
 - Contact / Inquiry Section
 
-### Homepage
-
-![Homepage Screenshot](assets/homepage.png)
-
-### Product Listing Page
-
-![Product Listing Screenshot](assets/product-listing.png)
-
-### Product Detail Page
-
-![Product Detail Screenshot](assets/product-detail.png)
-
-### Mobile Responsive View
-
-![Mobile View Screenshot](assets/mobile-view.png)
-
 ## What I Focused On
 
 During this project, I focused on creating a professional and practical eCommerce experience. The main focus was to make the website easy to use, visually clean, responsive on all devices, and suitable for presenting fashion products in an attractive way.
